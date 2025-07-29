@@ -1,0 +1,6 @@
+# requirements.txt
+
+python-telegram-bot
+google-generativeai
+python-dotenv
+requests
